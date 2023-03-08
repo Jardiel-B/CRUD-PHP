@@ -35,7 +35,7 @@
 
             default:
                 print "<h2> Este é um mini projeto criado para teste, foram utilizadas as tecnologias PHP como linguagem principal, HTML e CSS para estilização,
-                Apache para a execução do servidor no ambiente de teste, o banco de dados MySQL para a realização das operações do CRUD e o mecanismo de navegação baseado em SPA (Single Page Aplication)</h2>";
+                Apache para a execução do servidor no ambiente de teste, o banco de dados MySQL para a realização das operações do CRUD e o mecanismo de navegação baseado em SPA (Single Page Application)</h2>";
                 break;     
         }
     ?>
