@@ -1,0 +1,79 @@
+body{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navegacao a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    border: solid 1px;
+    border-radius: 10px;
+    text-align: center;
+    margin-right: 20px;
+    background-color: rgb(30, 69, 226)
+}
+.navegacao{
+    margin-top: 20px;
+}
+h2{  
+    text-align: center;
+}
+.form-criar{
+    margin-top: 100px;
+    text-align: center;
+}
+button{
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    border: solid 1px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgb(30, 69, 226);
+    margin-top: 10px;
+}
+input{
+    width: 250px;
+    margin-bottom: 10px;
+}
+table{
+    text-align: center;
+    width: 70%;
+}
+.listar td, th{
+    border: 1px black solid;
+    width: 20%;
+    padding: 10px;
+}
+.listar{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn-excluir{
+    color: white;
+    padding: 10px;
+    border: solid 1px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgb(137, 0, 0);
+    transition: 0.5s;
+}
+.btn-editar{
+    color: white;
+    padding: 10px;
+    border: solid 1px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgb(19, 0, 102);
+    transition: 0.5s;
+}
+.btn-editar:hover{
+    background-color: blue;
+}
+.btn-excluir:hover{
+    background-color: rgb(255, 0, 0);
+}
+p{
+    font-size: 20px;
+}
